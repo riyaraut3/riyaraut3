@@ -15,7 +15,7 @@ My work sits at the intersection of **data analytics, global supply-chain operat
 - 📊 Perform **ad hoc analysis** across demand, supply, procurement, inventory, supplier readiness, backlog, and delivery timelines
 - 🧹 Clean, standardize, and maintain the **connectivity hardware part catalog** to improve data accuracy and support planning, procurement, and reporting
 - 🌐 Support connectivity hardware planning and execution for global data-center infrastructure
-- 🔍 Use **SQL, Apache Hive, Tableau, Excel, and Python** for analysis, reporting, automation, and process improvement
+- 🔍 Use **SQL, Presto, Apache Hive, Jupyter Notebook, Tableau, Excel, and Python** for data extraction, analysis, reporting, automation, and process improvement
 - 📦 Work across supply planning, vendor coordination, procurement readiness, BOM management, and delivery-risk tracking
 - 🤝 Coordinate with engineering, operations, suppliers, and program stakeholders to resolve blockers and improve workflows
 - ☁️ **AWS Certified Solutions Architect – Associate**
@@ -37,7 +37,7 @@ I’m especially interested in roles that combine **technical program execution,
 ## 🛠️ Skills & Technologies
 
 **Data & Analytics**  
-SQL · Apache Hive · Tableau · Advanced Excel · Python · R · Forecasting · Statistical Analysis · Ad Hoc Analysis
+SQL · Presto · Apache Hive · Jupyter Notebook · Tableau · Advanced Excel · Python · R · Forecasting · Statistical Analysis · Ad Hoc Analysis
 
 **Infrastructure & Operations**  
 Data Center Connectivity · Supply Planning · Procurement · BOM Automation · Inventory Planning · Part Catalog Management · Vendor Coordination · Jira · Oracle Fusion
