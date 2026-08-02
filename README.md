@@ -1,54 +1,54 @@
 # Hi, I'm Riya Raut 👋
 
+### Business Analyst @ Meta | Data Center Operations | Procurement Automation | AI & Analytics
+
 ## 💫 About Me
 
-I’m an **AI/ML engineer and MS Computer Science graduate from Binghamton University (SUNY)** with experience building intelligent systems that connect machine learning, enterprise data, knowledge graphs, and cloud infrastructure.
+I’m an **MS Computer Science graduate from Binghamton University (SUNY)** and a **Business Analyst working with Meta’s data center infrastructure organization**.
 
-My work focuses on turning AI research into practical, production-ready solutions. I have built systems involving **retrieval-augmented generation, agentic workflows, semantic search, fine-tuned language models, real-time analytics, and scalable AI deployment**.
+My work sits at the intersection of **data analytics, global supply-chain operations, procurement, and data-center connectivity**. I use data to improve planning, identify operational risks, support infrastructure readiness, and help cross-functional teams make better decisions.
 
-- 🤖 Built agentic AI workflows using **LangGraph, LLMs, tool calling, and structured orchestration**
-- 🔎 Developed **RAG and semantic-search systems** over enterprise knowledge graphs and large document collections
-- 🔌 Built **Model Context Protocol (MCP)** integrations using SSE and JSON-RPC for connecting AI assistants with tools and enterprise data
-- 🧠 Worked with **fine-tuning and QLoRA**, including domain-focused model adaptation and efficient inference
-- ☁️ Deployed AI services using **FastAPI, KServe, Argo CD, Hugging Face, and SAP BTP**
-- 📊 Experienced in **SQL, Apache Hive, Tableau, data pipelines, forecasting, and real-time analytics**
-- 🏗️ Interested in reliable AI systems that combine strong models with evaluation, observability, security, and human oversight
+- 📊 Analyze demand, supply, inventory, procurement, and bill-of-materials data
+- 🌐 Support connectivity hardware planning and execution for global data-center infrastructure
+- 🔍 Use **SQL, Apache Hive, Tableau, Excel, and Python** for analysis, reporting, and process improvement
+- 📦 Work across supply planning, vendor coordination, procurement readiness, and delivery-risk tracking
+- 🤝 Coordinate with engineering, operations, suppliers, and program stakeholders
+- ⚙️ Interested in applying AI and automation to analytics, infrastructure operations, procurement, and program management
 - ☁️ **AWS Certified Solutions Architect – Associate**
 
-I enjoy working at the intersection of **AI engineering, data platforms, cloud systems, and technical program execution**, especially where complex ideas need to become useful products.
+I’m especially interested in roles that combine **technical program execution, AI, analytics, cloud infrastructure, and large-scale operational problem-solving**.
 
-## 🚀 AI Areas I’m Exploring
+## 🚀 AI & Technology Trends I’m Exploring
 
-- **Agentic AI:** multi-agent systems, planning, tool use, memory, and human-in-the-loop workflows
-- **Retrieval-Augmented Generation:** hybrid retrieval, reranking, GraphRAG, multimodal retrieval, and grounded generation
-- **Model Context Protocol:** reusable tool and data integrations for AI applications
-- **Multimodal AI:** systems that reason across text, images, documents, audio, and video
-- **Small and Efficient Models:** QLoRA, quantization, distillation, speculative decoding, and edge inference
-- **AI Evaluation:** task-specific benchmarks, LLM-as-a-judge, hallucination testing, safety checks, and regression evaluation
-- **Production LLMOps:** tracing, observability, prompt and model versioning, latency optimization, cost control, and secure deployment
-- **Knowledge Graphs + LLMs:** structured retrieval, SPARQL, enterprise reasoning, and explainable AI workflows
-- **AI Security:** prompt-injection defense, access controls, data privacy, and safe tool execution
-- **Synthetic Data:** generating high-quality training and evaluation data for specialized models
+- **Agentic AI:** assistants that can plan, use tools, and complete multi-step enterprise workflows
+- **AI Agent Interoperability:** MCP, A2A, and systems that allow agents to connect with tools, data, and other agents
+- **Retrieval-Augmented Generation:** grounding AI responses in trusted organizational data and documents
+- **Multimodal AI:** models that work across text, images, documents, audio, and video
+- **AI for Operations:** automation for procurement, supply-chain planning, forecasting, risk detection, and program execution
+- **AI Evaluation and Observability:** measuring quality, reliability, latency, cost, and hallucination risk
+- **Responsible and Secure AI:** access controls, privacy, human oversight, and prompt-injection protection
+- **Efficient AI Models:** smaller models, quantization, and cost-effective deployment
+- **Knowledge Graphs and AI:** combining structured enterprise data with language models for better reasoning
 
-## 🛠️ Technologies
+## 🛠️ Skills & Technologies
+
+**Data & Analytics**  
+SQL · Apache Hive · Tableau · Advanced Excel · Python · R · Forecasting · Statistical Analysis
+
+**Infrastructure & Operations**  
+Data Center Connectivity · Supply Planning · Procurement · BOM Management · Inventory Planning · Vendor Coordination · Jira · Oracle Fusion
 
 **AI & Machine Learning**  
-Python · PyTorch · TensorFlow · Hugging Face · LangGraph · RAG · QLoRA · Deep Learning · NLP · Computer Vision
+Machine Learning · Deep Learning · LLMs · RAG · NLP · Computer Vision · PyTorch · TensorFlow · scikit-learn · Neo4j
 
-**Data & Knowledge Systems**  
-SQL · Apache Hive · SPARQL · Knowledge Graphs · Semantic Search · Vector Databases · Tableau
+**Cloud & Development**  
+AWS · Git · Linux · PostgreSQL · MySQL · MongoDB · REST APIs
 
-**Cloud & Deployment**  
-AWS · SAP BTP · FastAPI · KServe · Argo CD · Docker · REST APIs · SSE · JSON-RPC
+## 🌟 Projects & Research
 
-## 🌟 Selected Projects
-
-- **Enterprise RAG and Knowledge-Graph Search:** Reduced complex document discovery from roughly one hour to minutes by combining LLMs, SPARQL knowledge graphs, and semantic retrieval
-- **Domain-Specific Language Model:** Adapted an open model with QLoRA for high-accuracy enterprise information extraction and production inference
-- **Agentic AI Pipeline:** Built a sequential LangGraph workflow combining retrieval, model reasoning, MCP tools, authentication, and auditability
-- **Real-Time Sign Language Translator:** Developed a computer-vision system for translating sign language in real time
-- **Tuberculosis Detection System:** Built a transfer-learning model for medical-image classification
-- **Technology Layoff Tracker:** Created an analytics system for monitoring employment trends across the technology industry
+- **Tuberculosis Detection:** Applied machine-learning and deep-learning techniques to medical-image classification; published through IEEE
+- **Real-Time Sign Language Translator:** Built a computer-vision solution for translating sign language
+- **Technology Layoff Tracker:** Developed an analytics project to monitor employment trends across the technology industry
 
 ## 🤝 Let’s Connect
 
