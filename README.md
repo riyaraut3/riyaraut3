@@ -1,27 +1,31 @@
 # Hi, I'm Riya Raut 👋
 
-### Business Analyst @ Meta | Data Center Operations | Procurement Automation | AI & Analytics
+### Business Analyst @ Meta | Data Center Operations | Supply Chain Analytics | AI Workflow Automation
 
 ## 💫 About Me
 
 I’m an **MS Computer Science graduate from Binghamton University (SUNY)** and a **Business Analyst working with Meta’s data center infrastructure organization**.
 
-My work sits at the intersection of **data analytics, global supply-chain operations, procurement, and data-center connectivity**. I use data to improve planning, identify operational risks, support infrastructure readiness, and help cross-functional teams make better decisions.
+My work sits at the intersection of **data analytics, global supply-chain operations, procurement, workflow automation, and data-center connectivity**. I use data and automation to improve planning, reduce manual work, strengthen data quality, and help cross-functional teams make better infrastructure decisions.
 
-- 📊 Analyze demand, supply, inventory, procurement, and bill-of-materials data
+### What I Work On
+
+- 🤖 Build automation workflows using **internal skill-based tooling, reusable skills, and MCP integrations** to streamline processes between connectivity and supply-chain teams
+- ⚙️ Automate **Bill of Materials (BOM) creation** for data-center infrastructure improvements, reducing repetitive manual work and improving process consistency
+- 📊 Perform **ad hoc analysis** across demand, supply, procurement, inventory, supplier readiness, backlog, and delivery timelines
+- 🧹 Clean, standardize, and maintain the **connectivity hardware part catalog** to improve data accuracy and support planning, procurement, and reporting
 - 🌐 Support connectivity hardware planning and execution for global data-center infrastructure
-- 🔍 Use **SQL, Apache Hive, Tableau, Excel, and Python** for analysis, reporting, and process improvement
-- 📦 Work across supply planning, vendor coordination, procurement readiness, and delivery-risk tracking
-- 🤝 Coordinate with engineering, operations, suppliers, and program stakeholders
-- ⚙️ Interested in applying AI and automation to analytics, infrastructure operations, procurement, and program management
+- 🔍 Use **SQL, Apache Hive, Tableau, Excel, and Python** for analysis, reporting, automation, and process improvement
+- 📦 Work across supply planning, vendor coordination, procurement readiness, BOM management, and delivery-risk tracking
+- 🤝 Coordinate with engineering, operations, suppliers, and program stakeholders to resolve blockers and improve workflows
 - ☁️ **AWS Certified Solutions Architect – Associate**
 
-I’m especially interested in roles that combine **technical program execution, AI, analytics, cloud infrastructure, and large-scale operational problem-solving**.
+I’m especially interested in roles that combine **technical program execution, AI, analytics, cloud infrastructure, automation, and large-scale operational problem-solving**.
 
 ## 🚀 AI & Technology Trends I’m Exploring
 
 - **Agentic AI:** assistants that can plan, use tools, and complete multi-step enterprise workflows
-- **AI Agent Interoperability:** MCP, A2A, and systems that allow agents to connect with tools, data, and other agents
+- **AI Agent Interoperability:** MCP, A2A, reusable skills, and systems that connect agents with tools and enterprise data
 - **Retrieval-Augmented Generation:** grounding AI responses in trusted organizational data and documents
 - **Multimodal AI:** models that work across text, images, documents, audio, and video
 - **AI for Operations:** automation for procurement, supply-chain planning, forecasting, risk detection, and program execution
@@ -33,13 +37,13 @@ I’m especially interested in roles that combine **technical program execution,
 ## 🛠️ Skills & Technologies
 
 **Data & Analytics**  
-SQL · Apache Hive · Tableau · Advanced Excel · Python · R · Forecasting · Statistical Analysis
+SQL · Apache Hive · Tableau · Advanced Excel · Python · R · Forecasting · Statistical Analysis · Ad Hoc Analysis
 
 **Infrastructure & Operations**  
-Data Center Connectivity · Supply Planning · Procurement · BOM Management · Inventory Planning · Vendor Coordination · Jira · Oracle Fusion
+Data Center Connectivity · Supply Planning · Procurement · BOM Automation · Inventory Planning · Part Catalog Management · Vendor Coordination · Jira · Oracle Fusion
 
-**AI & Machine Learning**  
-Machine Learning · Deep Learning · LLMs · RAG · NLP · Computer Vision · PyTorch · TensorFlow · scikit-learn · Neo4j
+**AI & Automation**  
+MCP · Reusable Skills · Workflow Automation · Machine Learning · LLMs · RAG · NLP · Computer Vision · PyTorch · TensorFlow · scikit-learn · Neo4j
 
 **Cloud & Development**  
 AWS · Git · Linux · PostgreSQL · MySQL · MongoDB · REST APIs
