@@ -1,6 +1,6 @@
 # Hi, I'm Riya Raut 👋
 
-### Business Analyst @ Meta | Data Center Operations | Supply Chain Analytics | AI Workflow Automation
+###  Analytics Consultant @ Meta via Capgemini | Data Center Operations | Analytics | AI Workflow Automation
 
 ## 💫 About Me
 
